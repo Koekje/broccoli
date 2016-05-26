@@ -7,9 +7,9 @@
 
 <body>
 <?php
-  echo "Broccoli.\r\n";
-  echo "Commit from the command line!\r\n";
-  echo "Commit from Github for Windows!\r\n"
+	echo "Broccoli.\r\n";
+	echo "Commit from the command line!\r\n";
+	echo "Commit from Github for Windows!\r\n"
 ?>
 <p>
 	<ul>
